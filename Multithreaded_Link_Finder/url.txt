@@ -1,0 +1,12 @@
+news.google.com
+nytimes.com
+msn.com
+huffingtonpost.com
+cnn.com
+reuters.com
+foxnews.com
+nbcnews.com
+wsj.com
+abcnews.go.com
+bbc.com/news
+usatoday.com
